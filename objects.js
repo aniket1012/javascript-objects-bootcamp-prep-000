@@ -1,5 +1,5 @@
 var playlist = {
-  Drake: "Controlla"
+  artistName: 'songTitle'
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
